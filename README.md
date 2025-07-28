@@ -9,8 +9,11 @@ To develop a supervised machine learning model that accurately predicts cancer t
 [ cancerClassification_scikitML.ipynb ] 
 Jupyter Notebook containing:
 -Data loading and exploration
+
 -Model training (Gaussian Naive Bayes, Logistic Regression, Random Forest)
+
 -Evaluation (accuracy, ROC-AUC, confusion matrix)
+
 -Visualization of performance metrics
 
 
