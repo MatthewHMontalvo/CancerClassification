@@ -38,7 +38,9 @@ Classes:
 -RandomForestClassifier
 
 
+
 Each model is trained and evaluated using:
+
 -Train/Test split (80/20)
 
 -Accuracy Score
