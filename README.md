@@ -8,6 +8,7 @@ To develop a supervised machine learning model that accurately predicts cancer t
 # Project
 [ cancerClassification_scikitML.ipynb ] 
 Jupyter Notebook containing:
+
 -Data loading and exploration
 
 -Model training (Gaussian Naive Bayes, Logistic Regression, Random Forest)
@@ -31,12 +32,19 @@ Classes:
 # Machine Learning Models Used
 
 -GaussianNB (Gaussian Naive Bayes)
+
 -LogisticRegression
+
 -RandomForestClassifier
+
 
 Each model is trained and evaluated using:
 -Train/Test split (80/20)
+
 -Accuracy Score
+
 -Classification Report (Precision, Recall, F1-score)
+
 -Confusion Matrix
+
 -ROC Curve and AUC score
